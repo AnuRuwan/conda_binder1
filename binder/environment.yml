@@ -12,9 +12,9 @@ dependencies:
   - r-tidyverse
   - pip
   - pip:
-   - pandas
-   - matplotlib
-   - numpy
-   - scipy
+    - pandas
+    - matplotlib
+    - numpy
+    - scipy
   
   
